@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace HikiAlarmMobile.Services;
+namespace HikiAlarmMuti.Services;
 
 public interface INotificationService
 {

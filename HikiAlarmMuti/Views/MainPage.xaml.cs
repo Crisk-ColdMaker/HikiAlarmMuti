@@ -1,4 +1,5 @@
 ﻿namespace HikiAlarmMuti.Views;
+using HikiAlarmMuti.ViewModels;
 
 public partial class MainPage : ContentPage
 {
